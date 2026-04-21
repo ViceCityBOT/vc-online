@@ -1,1 +1,1 @@
-online: 750/750 | queue: 547
+online: 750/750 | queue: 534
